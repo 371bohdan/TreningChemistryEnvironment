@@ -1,0 +1,112 @@
+{
+    "local": "English",
+    "lang": {
+        "TRAINER_NAME": "General exercises on the subject 'Analytical chemistry of the environment'",
+        "MAX_SCORE": "Max score",
+        "NEXT_STEP": "Next step",
+        "PREV_STEP": "Previous step",
+        "ENTER_TEXT": "Enter text",
+        "CHOOSE_LANG": "Choose language",
+        "CHOOSE_SELECT": "Choose element from the list",
+		"TEACHER_HELP": "Teachers help",
+		"ENTER_HELP_TEXT": "Describe what you are having problem with...",
+		"HELP_REQUEST_SEND": "Send",
+		"HELP_REQUEST_CLOSE": "Cancel",
+		"ALERT_WELL_DONE": "Well done!",
+		"ALERT_FAIL": "Oh snap!",
+		"ALERT_STEP_SUCCESS": " The step done perfectly! Go to the next one.",
+		"ALERT_STEP_FAIL": " Unfortunately the step is failed. Go to the next one.",
+		"STEP_COUNT": "Number of steps",
+		"END_TRAINER": "Finish session",
+        "END_ARE_YOU_SURE": "Are you sure you want to end trainer execution?",
+        "END_TRAINER_CLOSE": "Continue current session",
+        "END_TRAINER_SEND": "Finish current session",
+		"CALCULATOR" : "Calculator",
+        "DESCRIBE_TRENING": "This traning will provide an opportunity master of basic skills from course `Analitical chemistry`",
+		
+		"CHECK": "Check",
+		"ATTEMPTS_LEFT": "Attempts left - ",
+		
+		
+		"RADIO_TEXT_1": "Radio #1",
+		"RADIO_TEXT_2": "Radio №2",
+		"RADIO_TEXT_3": "Radio №3",
+		"RADIO_TEXT_4": "Radio №4 (correct)",
+		
+		"CHECKBOX1": "Mark me!",
+		"CHECKBOX2": "Don't mark me!",
+
+        "CHECKBOX_STEP2_1": "Cobalt solution",
+        "CHECKBOX_STEP2_2": "Ferrum(III) cation solution",
+        "CHECKBOX_STEP2_3": "Potassium permanganate solution",
+        "CHECKBOX_STEP2_4": "Nicol solution",
+        "CHECKBOX_STEP2_5": "Evaporation",
+        "CHECKBOX_STEP2_6": "Chromatography",
+        "CHECKBOX_STEP2_7": "Turbodimetry",
+        "CHECKBOX_STEP2_8": "Titrometry",
+		
+        "ELEMENTSTEST_OPTION_ONE": "Element 1",
+        "ELEMENTSTEST_OPTION_TWO": "Element 2",
+        "ELEMENTSTEST_OPTION_THREE": "Element 3 (right)",
+        "ELEMENTSTEST_TITLE": "Some elements test...",
+        "ELEMENTSTEST_TITLE1": "Stage 1",
+        "ELEMENTSTEST_TITLE2": "Stage 2",
+        "ELEMENTSTEST_TITLE3": "Stage 3",
+        "ELEMENTSTEST_CHOOSE_WRITE_OPTION": "Choose right element from the list",
+        "ELEMENTSTEST_ENTER_TEST": "Enter 'test' and 'Text' separated by comma into a text input",
+        "ELEMENTSTEST_PUT_DROPPABLE": "Drag answers #1 and #4 into droppable area",
+		"ELEMENTSTEST_PUT_INPUT1": "Enter numbers 1 OR 4",
+		"ELEMENTSTEST_ENTER_FLOAT_NUMBER": "Enter 4.5 or 4,5",
+        "LATEX_TEXT": "The equation for general relativity formulated by Albert Einstein. (LateX)",
+
+        "ELEMENTSTEST_OPTION_STAGE2_ONE": "Law of active masses",
+        "ELEMENTSTEST_OPTION_STAGE2_TWO": "Titer determination equation",
+        "ELEMENTSTEST_OPTION_STAGE2_THREE": "Law of equivalents",
+        "ELEMENTSTEST_OPTION_STAGE2_FOUR": "Determination of the concentration of a dissolved substance",
+
+        "ELEMENTSTEST_OPTION_STAGE3_ONE": "potassium dihydrogen phosphate",
+        "ELEMENTSTEST_OPTION_STAGE3_TWO": "calcium hydroxide",
+        "ELEMENTSTEST_OPTION_STAGE3_THREE": "Fehling's reagent",
+        "ELEMENTSTEST_OPTION_STAGE3_FOUR": "ferric (III) chloride",
+
+        "RESULTS_TITLE": "Your scores",
+        "RESULTS_START_TIME": "You started at",
+        "RESULTS_END_TIME": "Finished at",
+        "RESULTS_TIME_DIFF": "Time to complete",
+        "RESULTS_TIME_SEC": "sec.",
+        "RESULTS_YOUR_SCORE": "Your score is",
+
+        "STEP1_NAME": "Introduction",
+        "STEP2_NAME": "Step 1",
+        "STEP3_NAME": "Step 2",
+        "STEP4_NAME": "Step 3",
+        "STEP5_NAME": "Results",
+
+        "QUESTION1_STAGE1": "How many moles are there in the final compound, taking into account that the amount of chloride-inois substance is equal to 3 moles?",
+        "QUESTION2_STAGE1": "Nitrate ions belong to which class of chemical ingredients",
+        "QUESTION3_STAGE1": "Choose the type of aquatic natural object that contains the largest amount of methane",
+        
+        "QUESTION1_STAGE2": "Choose the ions that fall under the definition of 'heavy metals' from this list",
+        "QUESTION2_STAGE2": "According to this photo, visually determine what kind of substance it might be",
+        "QUESTION3_STAGE2": "Specify the methods of analysis that can be used to determine the content of sulfate ions in natural water",
+        
+        "QUESTION1_STAGE3": "When quantifying fluorides through the calibration graph, the pF of the liquid under study is 3.4. Determine the concentration of fluorides",
+        "QUESTION2_STAGE3": "When determining the chemical consumption of oxygen, Kubel's method was used, the titrant is a 0.01N solution of potassium permanganate. Determine the content of CSC in 250 ml of the test sample in mg/ml, if 37 ml of potassium permanganate were used for the titration of the blank sample, and 53 ml for the titration of the test sample. the correction coefficient is equal to 1",
+        "QUESTION3_STAGE3": "Determine the total hardness of water, if 7.1 ml of 0.05n trilon B was used for the titration of 100 ml of solidified sample",
+
+
+        "STEP1_RADIO1_VAR1": "major ions",
+        "STEP1_RADIO1_VAR2": "trace elements",
+        "STEP1_RADIO1_VAR3": "biogenic ions",
+        "STEP1_RADIO1_VAR4": "organic substances",
+
+        "STEP1_RADIO2_VAR1": "reservoir",
+        "STEP1_RADIO2_VAR2": "river",
+        "STEP1_RADIO2_VAR3": "brine",
+        "STEP1_RADIO2_VAR4": "underwater",
+
+        "ANSWER_S1_Q1": "ferric(III)chloride",
+        "ALT_IMG_1": "violet solution"
+
+    }
+}
